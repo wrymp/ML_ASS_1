@@ -20,24 +20,24 @@ model_inference.ipynb - აქ შევქმენი საბმიშენ
 
 # Training
 გამოვცადე შემდეგი მოდელები:
- **Random Forest Regressor** \n
- **Gradient Boosting Regressor** \n
- **XGBoost** \n
- **RidgeCV** \n
- **LassoCV** \n
- **ElasticNetCV** \n
+ **Random Forest Regressor** 
+ **Gradient Boosting Regressor**
+ **XGBoost** 
+ **RidgeCV** 
+ **LassoCV** 
+ **ElasticNetCV** 
 
-გამოვიყენე `GridSearchCV` და `cross_val_score()` 5-fold validation-ით. \n
+გამოვიყენე `GridSearchCV` და `cross_val_score()` 5-fold validation-ით.
 საბოლოო მოდელის შერჩევა მოხდა cross-validation საშუალო score-ების საფუძველზე (RMSE).
 
 # MLflow Tracking
 
-**MLflow ექსპერიმენტების ბმული**: \n https://dagshub.com/dshan21/ML_ASS_1.mlflow/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D\n
-**ჩაწერილი მეტრიკები**:\n
- `RMSE` \n
- `R²` \n
-**საუკეთესო მოდელის შედეგები**:\n
- `RMSE`: 29769.9795\n
- `Best RMSE`: 29150.5860\n
- `R²`: 0.8845\n
+**MLflow ექსპერიმენტების ბმული**: https://dagshub.com/dshan21/ML_ASS_1.mlflow/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
+**ჩაწერილი მეტრიკები**:
+ `RMSE`
+ `R²`
+**საუკეთესო მოდელის შედეგები**:
+ `RMSE`: 29769.9795
+ `Best RMSE`: 29150.5860
+ `R²`: 0.8845
 
