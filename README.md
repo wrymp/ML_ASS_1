@@ -42,5 +42,6 @@ model_inference.ipynb - აქ შევქმენი საბმიშენ
  `R²`: 0.8845
 
  საუკეთესო შედეგი:
-![image](https://github.com/user-attachments/assets/6543652a-50c6-426a-9349-063decf15d3c)
+![image](https://github.com/user-attachments/assets/73e6fd12-e7d1-44d4-9108-1fcb2fe1ef04)
+
 
