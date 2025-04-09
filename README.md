@@ -41,3 +41,6 @@ model_inference.ipynb - აქ შევქმენი საბმიშენ
  `Best RMSE`: 29150.5860
  `R²`: 0.8845
 
+ საუკეთესო შედეგი:
+![image](https://github.com/user-attachments/assets/6543652a-50c6-426a-9349-063decf15d3c)
+
